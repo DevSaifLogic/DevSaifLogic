@@ -52,4 +52,4 @@ I prioritize **architectural clarity and logical precision** over quick fixes. I
 
 *"Code is a means to an end. Architecture is how we ensure we reach the right end, the right way."*
 
-| (He/They)
+[Freelancer Profile](https://www.freelancer.com/u/DevSaifLogic) | (He/They)
